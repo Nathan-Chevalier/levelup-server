@@ -1,0 +1,38 @@
+[
+  {
+    "model": "levelupapi.event",
+    "pk": 1,
+    "fields": {
+      "organizer_id": 1,
+      "game_id": 1,
+      "name": "Dominion Night",
+      "event_time": "2023-11-21 18:00",
+      "event_location": "Honeytree Meadery",
+      "attendees": [1]
+    }
+  },
+  {
+    "model": "levelupapi.event",
+    "pk": 2,
+    "fields": {
+      "organizer_id": 1,
+      "game_id": 2,
+      "name": "D&D Night",
+      "event_time": "2023-11-22 18:00",
+      "event_location": "Honeytree Meadery",
+      "attendees": [1]
+    }
+  },
+  {
+    "model": "levelupapi.event",
+    "pk": 3,
+    "fields": {
+      "organizer_id": 1,
+      "game_id": 3,
+      "name": "Wow Classic Raid",
+      "event_time": "2023-11-23 22:00",
+      "event_location": "Discord",
+      "attendees": [1]
+    }
+  }
+]
